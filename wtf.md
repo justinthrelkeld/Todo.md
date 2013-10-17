@@ -29,3 +29,7 @@ Ideally, a distributed team based version would utilize some form of version con
 required syntax to define a todo is `- [ ]`
 
 Elements can indent infinitely(?) and children inherit all properties of their parent unless overridden their own property
+
+# An update
+After heavy use of the wonderful and amazing project management app Asana, I've been wondering how you could create a system like Asana that, at the end of the day, was based on todo.md.
+This file would have a very low number of minimum elements but could scale to fit just about any need.
